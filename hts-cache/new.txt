@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:58:15	108568/108568	---M-Z	200	added ('OK')	text/html	etag:%22755-1731310445;gz%22	https://receitafit.shop/	I:/sites/receitafit.shop/receitafit.shop/index.html	(from )
